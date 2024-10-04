@@ -8,7 +8,7 @@ else:
     print("Take an umbrella!")
 
 #Task2
-Greeting = input("How are you today?")
+greeting = input("How are you today?")
     
-if Greeting == ("happy"or"sad"):
+if greeting == ("happy"or"sad"):
     print("That's awesome to hear!"),("Bummer, hope your day gets better :)")
